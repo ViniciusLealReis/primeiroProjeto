@@ -1,0 +1,41 @@
+#cidadess,
+h2 {
+  color: seagreen;
+  font-size: x-large;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.titulo,
+h1 {
+  font-size: 50px;
+  color: black;
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.tituloRJ,
+h1 {
+  font-size: 50px;
+  color: black;
+  font-weight: bolder;
+  font-family: Arial;
+}
+
+.hoje {
+  font-size: larger;
+  color: darkred;
+  font-family: Arial;
+}
+
+.amanha {
+  color: darkblue;
+  font-size: larger;
+  font-family: Arial;
+}
+
+a {
+  text-decoration: none;
+}
